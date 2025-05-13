@@ -40,7 +40,7 @@ This API handles booking management for four conference/board rooms while **prev
 
 You can view and manage the available rooms at:
 
-📍 `http://127.0.0.1:8000/api/rooms/`
+--> `http://127.0.0.1:8000/api/rooms/`
 
 Example JSON response:
 
