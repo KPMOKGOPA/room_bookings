@@ -97,8 +97,8 @@ Rooms can be created, edited, and deleted through the browser interface
 
 ```bash
 # Clone the repository
-git clone https://github.com/KPMOKGOPA/room-booking-django.git
-cd room-booking-django
+git clone https://github.com/KPMOKGOPA/room_bookings.git
+cd room_bookings
 
 # Create and activate virtual environment
 python3 -m venv venv
